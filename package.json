@@ -1,0 +1,23 @@
+{
+  "name": "movies-ticket",
+  "version": "1.0.0",
+  "description": "Hello there, this is a Demo website for buying movie tickets. So, Buckle up and lets goooo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahadath-Rifat/movies-ticket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahadath-Rifat/movies-ticket/issues"
+  },
+  "homepage": "https://github.com/Shahadath-Rifat/movies-ticket#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

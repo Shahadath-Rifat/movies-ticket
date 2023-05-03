@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello there, this is a fast-typing game where your typing skills will be tested. So, Buckle up and lets goooo.  
+Hello there, this is a Demo website for buying movie tickets. So, Buckle up and lets goooo.  
   
 
 ### Demo

@@ -6,15 +6,39 @@
         <meta name="keywords" content="html, css, web, web development, seo">
         <meta name="author" content="SH Rifat">
         <title>Movies Ticket</title>
-        <link rel="shortcut icon" href="./assets/image/tickets-g5e4a0b601_1280.png" type="image/S-icon">
+        <link rel="shortcut icon" href="./assets/image/tickets.png" type="image/S-icon">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="./assets/style/index.css" media="all">
-        <script src="./assets/script/index.js" defer></script>
+        <script src="./assets/script/index.js" type="module"></script>
     </head>
     <body>
-    
+        <header>
+            <div class="container flex">
+                <div class="title">
+                    <h1>Movies Ticket</h1>
+                </div>
+                <nav>
+                     <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Buy Tickets</a></li>
+                        <li><a href="#">Movies</a></li>
+                     </ul>
+                </nav>
+            </div>
+         </header> 
+         <div class="controls">
+            <input type="text" id="movieInput"  placeholder='Find your fav movies here...'>
+            <input type="text" id="cityInput"  placeholder='City...'> 
+            <button id="btn">Search</button>
+            <div class="movies-results"></div>
+            <div class="cities-results"></div>
+         </div>
+         <div class="movies-section"></div>
+         <h2>Now Playing</h2>
+         <section class="movieList"></section>
     </body>
 </html> 

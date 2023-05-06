@@ -1,28 +1,53 @@
 {
-    "results": [
+    "movies": [
         {
-        "name": "Alberta"
+            "title": "Jurassic Park",
+            "poster" : "./assets/image/jurassic-park.jpg"
         },
+
         {
-        "name": "Halifax"
+            "title": "Eternals",
+            "poster": "./assets/image/eternals.jpg"
         },
+
         {
-        "name": "Ottawa"
+            "title": "JFK",
+            "poster": "./assets/image/jfk.jpg"
         },
+        
         {
-        "name": "Quebec"
+            "title": "No Time to Die",
+            "poster": "./assets/image/no-time-to-die.jpg"
         },
+
         {
-        "name": "Saskatchewan"
+            "title": "The Batman",
+            "poster": "./assets/image/the-batman.jpg"
         },
+
         {
-        "name": "Vancouver"
+            "title": "The Lion King",
+            "poster": "./assets/image/the-lion-king.jpg"
         },
+
         {
-        "name": "Victoria"
+            "title": "Titanic",
+            "poster": "./assets/image/titanic.jpg"
         },
+
         {
-        "name": "Winnipeg"
+            "title": "The Godfather",
+            "poster": "./assets/image/the-godfather.jpg"
+        },
+
+        {
+            "title": "The Matrix",
+            "poster": "./assets/image/the-matrix.jpg"
+        },
+
+        {
+            "title": "The Exorcist",
+            "poster": "./assets/image/the-exorcist.jpg"
         }
     ]
 }
